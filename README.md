@@ -71,7 +71,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://metrics.lecoq.io/jukkarol?template=classic&base.header=0&gists=1&lines=1&config.timezone=Poland%Poznan" />
+  <img src="https://metrics.lecoq.io/jukkarol?template=classic&base.header=0&gists=1&lines=1" />
 </p>
 
 ---
